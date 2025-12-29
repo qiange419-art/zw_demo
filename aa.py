@@ -5,3 +5,4 @@ import struct
 class Fingerprint:
     pass
 pass
+pass
