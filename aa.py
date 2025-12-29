@@ -6,6 +6,6 @@ class Fingerprint:
 <<<<<<< HEAD
     pass
 222
-=======
+=======ssss
     pass
 >>>>>>> parent of 6708066 (2)
