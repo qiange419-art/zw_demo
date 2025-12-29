@@ -4,3 +4,4 @@ import serial
 import struct
 class Fingerprint:
     pass
+pass
